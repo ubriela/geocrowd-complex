@@ -1,6 +1,8 @@
 *** This repository is the implementation of the following papers: ***
 
-1) Dang, Hung, Tuan Nguyen, and Hien To. Maximum Complex Task Assignment: Towards Tasks Correlation in Spatial Crowdsourcing. In Proceedings of the 15th International Conference on Information Integration and Web-based Applications & Services (iiWAS2013)
+1) Dang, Hung, Tuan Nguyen, and Hien To. 
+Maximum Complex Task Assignment: Towards Tasks Correlation in Spatial Crowdsourcing. 
+In Proceedings of the 15th International Conference on Information Integration and Web-based Applications & Services (iiWAS2013)
 
 Related studies:
 
