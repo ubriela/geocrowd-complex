@@ -1,7 +1,0 @@
-Total expertise: 508
-Total user with expertise: 45865
-Total user reviewed: 45981
-Avg expertise per user: 8
-Avg rating per user: 5
-Total Business: 11537
-Total Task requires Expertise: 11360
