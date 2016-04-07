@@ -1,16 +1,14 @@
 *** This repository is the implementation of the following papers: ***
 
-1) Dang, Hung, Tuan Nguyen, and Hien To. 
-Maximum Complex Task Assignment: Towards Tasks Correlation in Spatial Crowdsourcing. 
-In Proceedings of the 15th International Conference on Information Integration and Web-based Applications & Services (iiWAS2013)
+1) Hung Dang, Tuan Nguyen, and Hien To, Maximum Complex Task Assignment: Towards Tasks Correlation in Spatial Crowdsourcing, In Proceedings of International Conference on Information Integration and Web-based Applications and Services (IIWAS 2013), No 77, Pages 77-81, Vienna, Austria , 2-4 December 2013
 
 Related studies:
 
-https://bitbucket.org/hto/geocrowd
+https://github.com/ubriela/geocrowd-priv-dynamic
 
-https://bitbucket.org/hto/privategeocrowd/
+https://github.com/ubriela/geocrowd-priv
 
-https://bitbucket.org/hto/geocast/
+https://github.com/ubriela/geocrowd-priv-demo
 
 --------------------------------------------------------------
 
